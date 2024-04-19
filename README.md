@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me? ready bible
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: im woman
+- ⚡ Fun fact: i'll be production engineering
 
 <!---
 veronica-graciano/veronica-graciano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
